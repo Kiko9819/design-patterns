@@ -13,8 +13,8 @@ public class Main {
         chatRoom.register(dragancho);
         chatRoom.register(petkancho);
 
-        ivancho.send("Dragancho", "Zdr, kpr, bepce?");
-        dragancho.send("Ivancho", "Biva ti?");
+        ivancho.send("Dragancho", "How's it going?");
+        dragancho.send("Ivancho", "I'm fine thank you!");
         dragancho.send("Ivancho", "addBot");
 
         petkancho.send("Ivancho", "cat is awesome");

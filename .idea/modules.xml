@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibilityAssignment/ChainOfResponsibilityAssignment.iml" filepath="$PROJECT_DIR$/ChainOfResponsibilityAssignment/ChainOfResponsibilityAssignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/MediatorFactory/MediatorFactory.iml" filepath="$PROJECT_DIR$/MediatorFactory/MediatorFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns.iml" />
     </modules>
